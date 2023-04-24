@@ -32,7 +32,7 @@ end
 
 subgraph Platforms
 	direction TB
-	duolingo -->studySchedule --> newsinlevels -->withVideos -->udemy
+	duolingo -->studySchedule --> newsinlevels -->udemy
 end
 
 Platforms-->Save
